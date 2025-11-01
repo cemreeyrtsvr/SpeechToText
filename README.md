@@ -2,7 +2,7 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Lisans](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
 Bu proje, C# kullanılarak geliştirilmiş bir Konuşmayı Metne Çevirme (Speech-to-Text) masaüstü uygulamasıdır. Mikrofon girdisini veya ses dosyalarını analiz ederek metin çıktısı üretir.
 
 ##  Özellikler
