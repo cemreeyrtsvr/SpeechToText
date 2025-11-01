@@ -22,4 +22,4 @@ Projeyi çalıştırabilmek için sisteminizde aşağıdakilerin kurulu olması 
 
 * Vosk Türkçe Dil Modeli
 
-çin `LICENSE` dosyasına bakabilirsiniz.
+
